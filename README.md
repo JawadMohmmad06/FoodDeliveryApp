@@ -1,4 +1,5 @@
-Project Name: Online Food Delivery App Backend
+# Project Name: Online Food Delivery App Backend
+### Frontend https://github.com/JawadMohmmad06/food-delivery-app-frontend-react
 
 ## Description:
 This is the backend part of an online food delivery service built using C#, .NET, and MySQL REST API. The project provides functionalities for four types of users: customers, restaurants, admins, and delivery personnel. The flow of the website allows customers to register and log in, view registered restaurants, select a restaurant, add food items to the cart, and provide their location for delivery. A delivery person is then assigned, and the delivery status is updated accordingly. The admin has access to all features and can also perform business analytics.
@@ -16,4 +17,3 @@ Technologies Used:
 - MySQL: Database management system used for storing and retrieving data.
 - REST API: Enables communication between the frontend and backend through HTTP requests.
 
-Please note that this is a brief description of the project. For more detailed information, including the source code and implementation, please refer to the GitHub repository.
